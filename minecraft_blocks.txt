@@ -1,0 +1,212 @@
+air
+stone
+granite
+polished granite
+diorite
+polished diorite
+andesite
+polished andesite
+grass
+dirt
+grassless dirt
+cobblestone
+oak planks
+spruce planks
+birch planks
+jungle planks
+acacia planks
+dark oak planks
+oak sapling
+spruce sapling
+birch sapling
+jungle sapling
+acacia sapling
+dark oak sapling
+bedrock
+water
+lava
+red sand
+gravel
+gold ore
+iron ore
+coal ore
+oak wood
+spruce wood
+birch wood
+jungle wood
+oak leaves
+spruce leaves
+birch leaves
+jungle leaves
+sponge
+glass
+lapis lazuli ore
+lapis lazuli block
+sandstone
+chiseled sandstone
+smooth sandstone
+note block
+bed
+powered rail
+detector rail
+sticky piston
+web
+shrub
+grass
+fern
+piston
+wool
+gold block
+iron block
+stone slab
+sandstone slab
+wooden slab
+cobblestone slab
+brick slab
+stone brick slab
+nether brick slab
+quartz slab
+brick block
+tnt
+bookshelf
+mossy cobblestone
+obsidian
+torch
+fire
+mob spawner
+oak stairs
+chest
+redstone wire
+diamond ore
+diamond block
+crafting table
+wheat
+farmland
+furnace
+wooden door
+ladder
+rail
+cobblestone stairs
+sign
+lever
+stone pressure plate
+iron door
+wooden pressure plate
+redstone ore
+redstone torch
+stone button
+snow layer
+ice
+snow
+cactus
+clay
+sugar cane
+jukebox
+fence
+pumpkin
+netherrack
+soul sand
+glowstone
+portal
+jack-o-lantern
+cake
+repeater
+white stained glass
+orange stained glass
+magenta stained glass
+light blue stained glass
+yellow stained glass
+lime stained glass
+pink stained glass
+gray stained glass
+light gray stained glass
+cyan stained glass
+purple stained glass
+blue stained glass
+brown stained glass
+green stained glass
+red stained glass
+black stained glass
+trapdoor
+stone brick
+mossy stone brick
+cracked stone brick
+chiseled stone brick
+red mushroom block
+brown mushroom block
+iron bars
+glass pane
+melon block
+vines
+fence gate
+brick stairs
+stone brick stairs
+mycelium
+lily pad
+nether brick
+nether brick fence
+nether brick stairs
+nether wart
+enchantment table
+brewing stand
+cauldron
+end portal
+end portal frame
+end stone
+dragon egg
+redstone lamp
+lit redstone lamp
+double oak slab
+double spruce slab
+double birch slab
+double jungle slab
+double acacia slab
+double dark oak slab
+oak slab
+spruce slab
+birch slab
+jungle slab
+acacia slab
+dark oak slab
+cocoa
+sandstone stairs
+emerald ore
+ender chest
+tripwire hook
+tripwire
+emerald block
+spruce stairs
+birch stairs
+jungle stairs
+command block
+beacon
+cobblestone wall
+flower pot
+anvil
+trapped chest
+light weighted pressure plate
+heavy weighted pressure plate
+redstone block
+nether quartz ore
+hopper
+quartz block
+chiseled quartz block
+pillar quartz block
+quartz stairs
+dropper
+white stained clay
+orange stained clay
+magenta stained clay
+light blue stained clay
+yellow stained clay
+lime stained clay
+pink stained clay
+gray stained clay
+light gray stained clay
+cyan stained clay
+purple stained clay
+blue stained clay
+brown stained clay
+green stained clay
+red stained clay
+black stained clay

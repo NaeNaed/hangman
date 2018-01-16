@@ -1,0 +1,10 @@
+Pig
+Chicken
+Cow
+Rabbit
+Horse
+Sheep
+Mooshroom
+Squid
+Ocelot
+Wolf

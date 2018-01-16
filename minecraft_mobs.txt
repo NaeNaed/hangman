@@ -1,0 +1,10 @@
+Creepers
+Skeletons
+Zombies
+Enderman
+Blaze
+Ghast
+Zombie Pigman
+Ender Dragon
+Wither
+Wither Skeleton

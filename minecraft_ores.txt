@@ -1,0 +1,8 @@
+Coal
+Iron
+Gold
+Lapis Lazuli
+Diamond
+Redstone
+Emerald
+Quartz
